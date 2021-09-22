@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	    // Think Java - Exercise 7.2
+	// Think Java - Exercise 7.2
 
         int[] bob = make(5);
         dub(bob);
