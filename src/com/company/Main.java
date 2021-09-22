@@ -23,7 +23,7 @@ public class Main {
     }
 
         /* MAKE:
-        * The method called make takes an integer array with the value n = 5 and inside the method there is another
+        * The method called "make" takes an integer array with the value n = 5 and inside the method there is another
         * integer array named "a" and it's used in the "for" loop and will give this return --->
         * Return: a[0] = 1, a[1] = 2, a[2] = 3, a[3] = 4, a[4] = 5.
         */
