@@ -11,7 +11,7 @@ public class Main {
     }
 
         /* MAIN:
-        * The output of this program will be a print of the return value for "mus(bob)" which is 30.
+        * The output of this program will be a print of the return value for "mus(bob)" which are 30.
         */
 
     public static int[] make(int n) {
